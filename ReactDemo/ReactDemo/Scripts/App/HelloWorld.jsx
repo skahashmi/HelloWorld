@@ -1,5 +1,5 @@
 ﻿var HelloWorld = React.createClass({
     render: function() {
-        return (<div>Hello world!</div>);
+        return (<h1>Hello world!</h1>);
     }
 });
