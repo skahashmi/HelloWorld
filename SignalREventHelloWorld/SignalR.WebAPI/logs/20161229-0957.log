@@ -1,0 +1,16 @@
+2016-12-29 09:57:04,205 [6] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1702, Agent calling to 07809230676
+
+2016-12-29 09:57:09,800 [14] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Client Initialised - 1702
+
+2016-12-29 09:57:27,302 [14] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Call Answered - 1702
+
+2016-12-29 09:57:27,939 [14] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Call Disconnected - 1702
+
+2016-12-29 09:57:32,969 [6] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1702, Agent calling to 07809230676
+
+2016-12-29 09:57:33,452 [19] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Client Initialised - 1702
+
+2016-12-29 09:57:44,343 [19] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Call Answered - 1702
+
+2016-12-29 09:57:44,923 [19] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1702 : Call Disconnected - 1702
+

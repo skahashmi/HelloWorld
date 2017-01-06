@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h2>Hello World Demo</h2>
+
+<div ng-app="eventDemo" ng-controller="EventController">
+    <label>Name</label>&nbsp;<input ng-model="name" type="text" />&nbsp;&nbsp;
+
+    <button ng-click="PublishEvent()">Hello World</button>
+    <br />
+    <br />
+    <h3>Events</h3> 
+    <div>
+        <div ng-repeat="event in events">{{event}}</div>
+    </div>
+</div>

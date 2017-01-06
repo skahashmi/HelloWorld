@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h2>Dialler Demo</h2>
+
+<div ng-app="eventDemo" ng-controller="EventController">
+    <label>Agent Id</label>&nbsp;<input ng-model="agentId" type="text" />&nbsp;&nbsp;
+    <label>Number to load</label>&nbsp;&nbsp;<input ng-model="numbertoLoad" type="text" />
+    <button ng-click="Start()" ng-disabled="Subscribed">Start</button>
+    <h3>Manual Dialling</h3>
+    <label>Phone Number</label>&nbsp;<input ng-model="phoneNumber" type="text" />
+    <button ng-click="callNumber()" ng-disabled="!canCallNumber()">Dial</button>
+    <button ng-click="EndCall()" ng-disabled="!canEndCall()">End Call</button>
+    <h3>Campaign Dialling</h3> 
+    <button ng-click="SelectAll()" ng-disabled="!canCallNumber()">Select All</button>
+    <button ng-click="start()" ng-disabled="!canCallNumber()">Start Dialing with counter</button>
+    <button ng-click="StartAutoDiallingWithNoCounter()" ng-disabled="!canCallNumber()">Start Dialing without counter</button>
+    <button ng-click="StopAutoDialling()" ng-disabled="!canEndCall()">Stop Dialing</button>
+    <div>Countdown in seconds: {{countdown}}</div>
+    <br />
+    <br />
+    <div class="gridStyle" ng-grid="gridOptions" style="height:200px;"></div>
+    <h3>Events</h3> 
+    <div>
+        <div ng-repeat="event in events">{{event}}</div>
+    </div>
+</div>

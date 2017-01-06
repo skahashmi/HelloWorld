@@ -1,0 +1,8 @@
+2016-12-20 12:58:02,978 [22] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1035 : Call Disconnected - 1035
+
+2016-12-20 12:58:08,007 [26] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1035, Agent calling to 07809230676
+
+2016-12-20 12:58:08,541 [5] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1035 : Client Initialised - 1035
+
+2016-12-20 12:58:28,918 [5] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – 1035 : Call Disconnected - 1035
+

@@ -1,0 +1,4 @@
+\\mac\home\documents\visual studio 2015\Projects\SignalR.Event\SignalR.Event.Contract\bin\Release\SignalR.Event.Contract.dll
+\\mac\home\documents\visual studio 2015\Projects\SignalR.Event\SignalR.Event.Contract\bin\Release\SignalR.Event.Contract.pdb
+\\mac\home\documents\visual studio 2015\Projects\SignalR.Event\SignalR.Event.Contract\obj\Release\SignalR.Event.Contract.dll
+\\mac\home\documents\visual studio 2015\Projects\SignalR.Event\SignalR.Event.Contract\obj\Release\SignalR.Event.Contract.pdb

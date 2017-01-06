@@ -1,0 +1,10 @@
+2016-12-20 11:45:25,925 [17] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1035, Agent calling to 07809230676
+
+2016-12-20 11:45:26,632 [44] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – SignalR.Event.Contract.PayLoad.DiallerResult
+
+2016-12-20 11:45:46,800 [44] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – SignalR.Event.Contract.PayLoad.DiallerResult
+
+2016-12-20 11:45:51,824 [17] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1035, Agent calling to 07809230676
+
+2016-12-20 11:45:52,388 [19] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – SignalR.Event.Contract.PayLoad.DiallerResult
+

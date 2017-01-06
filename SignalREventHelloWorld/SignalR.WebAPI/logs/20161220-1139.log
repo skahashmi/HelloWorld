@@ -1,0 +1,8 @@
+2016-12-20 11:39:24,708 [5] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1033, Agent calling to 1017
+
+2016-12-20 11:39:25,911 [5] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1035, Agent calling to 07809230676
+
+2016-12-20 11:39:53,602 [16] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1033, Agent calling to 1017
+
+2016-12-20 11:39:54,045 [17] INFO  SignalR.WebAPI.WebApiApplication (null) (null) – Agent calling from: 1035, Agent calling to 07809230676
+
