@@ -3,3 +3,11 @@ ReactDemo/.vs/config/applicationhost.config
 ReactDemo/.vs/ReactDemo/v14/.suo
 ReactDemo/ReactDemo/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 ReactDemo/ReactDemo/obj/Debug/ReactDemo.csproj.FileListAbsolute.txt
+SignalREventHelloWorld/SignalR.WebAPI/obj/Debug/SignalR.WebAPI.pdb
+SignalREventHelloWorld/SignalR.WebAPI/obj/Debug/SignalR.WebAPI.pdb
+SignalREventHelloWorld/SignalR.WebAPI/obj/Debug/SignalR.WebAPI.csproj.FileListAbsolute.txt
+SignalREventHelloWorld/SignalR.WebAPI/bin/SignalR.WebAPI.pdb
+SignalREventHelloWorld/SignalR.WebAPI/bin/SignalR.WebAPI.pdb
+SignalREventHelloWorld/SignalR.WebAPI/bin/SignalR.Event.Contract.pdb
+SignalREventHelloWorld/SignalR.Event.Contract/obj/Debug/SignalR.Event.Contract.csprojResolveAssemblyReference.cache
+SignalREventHelloWorld/SignalR.WebAPI/bin/SignalR.Event.Contract.pdb

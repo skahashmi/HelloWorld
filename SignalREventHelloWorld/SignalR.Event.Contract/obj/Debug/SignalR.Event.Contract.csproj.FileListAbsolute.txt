@@ -6,3 +6,8 @@
 \\Mac\Home\Documents\GitHub\SignalREventHelloWorld\SignalR.Event.Contract\bin\Debug\SignalR.Event.Contract.pdb
 \\Mac\Home\Documents\GitHub\SignalREventHelloWorld\SignalR.Event.Contract\obj\Debug\SignalR.Event.Contract.dll
 \\Mac\Home\Documents\GitHub\SignalREventHelloWorld\SignalR.Event.Contract\obj\Debug\SignalR.Event.Contract.pdb
+\\Mac\Home\Documents\GitHub\HelloWorld\SignalREventHelloWorld\SignalR.Event.Contract\bin\Debug\SignalR.Event.Contract.dll
+\\Mac\Home\Documents\GitHub\HelloWorld\SignalREventHelloWorld\SignalR.Event.Contract\bin\Debug\SignalR.Event.Contract.pdb
+\\Mac\Home\Documents\GitHub\HelloWorld\SignalREventHelloWorld\SignalR.Event.Contract\obj\Debug\SignalR.Event.Contract.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\HelloWorld\SignalREventHelloWorld\SignalR.Event.Contract\obj\Debug\SignalR.Event.Contract.dll
+\\Mac\Home\Documents\GitHub\HelloWorld\SignalREventHelloWorld\SignalR.Event.Contract\obj\Debug\SignalR.Event.Contract.pdb
